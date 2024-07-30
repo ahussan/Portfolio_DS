@@ -32,10 +32,13 @@ The Python code for this project can be found in [this Notebook](https://github.
 ---
 
 #### Generalized Linear Model (GLM) in R:  Predict Heart Diseases
+
 For this project I used different predictive modeling techniques with real world data in order to predict if a person has heart disease based on certain factors. The data set for this project [Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) can be found on Kaggle. Each observation in this dataset represents a person’s health history, including their age, sex, cholesterol levels, etc. The dataset includes a total of 918 distinct individuals gathered from different countries and agencies. This dataset includes 12 different features, of categorical and/or continous values, of an individual health record, including if the individual has heart disease or not.
 The writeup with detail analysis can be found in [this rpub](https://rpubs.com/ahussan/1207459). R code can be found in [this .Rmd](https://github.com/ahussan/Projects_DS/blob/main/Predict%20heart%20disease/Predict%20Cardiovascular%20diseases.Rmd) file.
 The writeup and detail analysis can be also found in [this pdf](https://github.com/ahussan/Projects_DS/blob/main/Predict%20heart%20disease/Predict%20heart%20disease%20based%20on%20certain%20Health%20factors.pdf) file.
+
 ---
+
 #### Binary Logistic Regression in R: Crime Risk Prediction
 
 **This is a group project that is part of our Master's program**. In this project, we developed a binary logistic regression model to predict whether a neighborhood is at risk for high crime levels. The objective was to evaluate the impact of various factors on crime risk and to identify the most effective model for accurate predictions. I created and compared six different models:
@@ -49,7 +52,9 @@ The writeup and detail analysis can be also found in [this pdf](https://github.c
 
 Through this comparative approach, we identified the most effective model for predicting high crime risk in neighborhoods, providing valuable insights for urban planning and public safety strategies.
 The R code can be found in [this .Rmd](https://github.com/ahussan/Projects_DS/blob/main/Crime%20Prediction/HW3.Rmd) file. Detail write up can be found in [this pdf](https://github.com/ahussan/Projects_DS/blob/main/Crime%20Prediction/HW3.pdf) file.
+
 ---
+
 #### Regression in R: Car Crash Prediction and Cost Estimation
 
 The purpose of this project is to develop predictive models using multiple linear regression and binary logistic regression techniques. The goal is to predict two key outcomes: the probability that a person will crash their car and the amount of money it will cost if a crash occurs. The project involves building and evaluating multiple models to determine the most accurate predictors.
