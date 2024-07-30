@@ -74,7 +74,9 @@ The purpose of this project is to develop predictive models using multiple linea
 - **Multi Linear Regression Model 3:** Stepwise Function - Applied stepwise selection to identify the most significant predictors.
 Through this approach, the project aims to provide a comprehensive analysis of the factors influencing car crashes and their associated costs, enabling better risk assessment and financial planning for potential car crashes.
 Details write up can be found in [this .pdf](https://github.com/ahussan/Projects_DS/blob/main/car%20crush/Car%20Crush.pdf) and the R code can be found in [this .Rmd](https://github.com/ahussan/Projects_DS/blob/main/car%20crush/car%20crush.Rmd) file.
+
 ---
+
 #### Data Visualization in R:
 This project focuses on the creation of various data visualizations using R to effectively depict and analyze data. By leveraging R's powerful visualization libraries, I generated a range of graphical representations to uncover insights and patterns in the dataset. 
 The visualizations include Histogram, Bar charts, Box Plots,    Correlograms, Population Pyramids.
