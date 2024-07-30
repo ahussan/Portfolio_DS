@@ -69,9 +69,9 @@ Through this approach, the project aims to provide a comprehensive analysis of t
 Details write up can be found in [this .pdf](https://github.com/ahussan/Projects_DS/blob/main/car%20crush/Car%20Crush.pdf) and the R code can be found in [this .Rmd](https://github.com/ahussan/Projects_DS/blob/main/car%20crush/car%20crush.Rmd) file.
 ---
 #### Data Visualization in R:
-
 This project focuses on the creation of various data visualizations using R to effectively depict and analyze data. By leveraging R's powerful visualization libraries, I generated a range of graphical representations to uncover insights and patterns in the dataset. 
 The visualizations include Histogram, Bar charts, Box Plots,    Correlograms, Population Pyramids.
 Through these visualizations, the project demonstrates the power of R in transforming raw data into meaningful and interpretable visual formats, facilitating better data-driven decision-making and analysis.
 The R code can be found in [this .Rmd](https://github.com/ahussan/DATA_607_CUNY_SPS/blob/master/Visualization/visualization.Rmd) File and the Details can be found in [this rpubs](https://rpubs.com/ahussan/380532).
+
 ---
