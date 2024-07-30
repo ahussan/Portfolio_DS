@@ -25,9 +25,11 @@ By employing Naive Bayes and Maximum Entropy classifiers, I was able to analyze 
 The dataset used for this project is a labeled corpus of male and female names from the NLTK package: nltk.corpus.names.This 
 project demonstrates the application of machine learning algorithms in NLP. The Python code for this project can be found in [this link](https://github.com/ahussan/Projects_DS/blob/main/Project3.ipynb).
 
+
 ---
 
-### Natural Language Processing with Python: Document and Text Classification Project
+
+#### Natural Language Processing with Python: Document and Text Classification Project
 In this project, I implemented various machine learning algorithms to classify documents and text. Using Naive Bayes Classifier, Linear Support Vector Machine (SVM) Classifier, and Logistic Regression, I explored different approaches to accurately categorize text data. The project showcases the application of these classifiers in document classification tasks and performance in handling text data. Through this project, I demonstrated the process of building and evaluating multiple models to achieve optimal classification results.
 The Python code for this project can be found in [this Notebook](https://github.com/ahussan/Projects_DS/blob/main/news%20classification.ipynb).
 
