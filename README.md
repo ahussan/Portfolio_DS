@@ -1,4 +1,6 @@
 # Data Science Portfolio by Anjal Hussan
+[Credly](https://www.credly.com/users/anjal-hussan) ||
+[Linkedin](https://www.linkedin.com/in/ahussan/)
 ___
 This portfolio is a compilation of varias project references and the notebooks which I created for Exploratory Data Analysis (EDA), and creating Models.
 
