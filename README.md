@@ -88,3 +88,10 @@ Through these visualizations, the project demonstrates the power of R in transfo
 The R code can be found in [this .Rmd](https://github.com/ahussan/DATA_607_CUNY_SPS/blob/master/Visualization/visualization.Rmd) File and the Details can be found in [this rpubs](https://rpubs.com/ahussan/380532).
 
 ---
+
+#### Data Visualization in Superset
+This project leverages Apache Superset, an open-source data exploration and visualization platform, 
+to create interactive and insightful data visualizations. The aim is to provide a comprehensive analysis of the dataset through a 
+variety of visual formats, enabling users to explore and understand the data effectively. Key features of the project include
+Dashboards, Interactive Charts, Filters and Controls, SQL Lab, Data Sources and Connectivity: Connected Superset to various data sources, such as SQL databases, CSV files, and cloud data warehouses.
+Screenshots from Superset can be found in [this .pdf](https://github.com/ahussan/Projects_DS/blob/main/superset%20screenshots.pdf) file.
