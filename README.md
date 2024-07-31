@@ -99,6 +99,7 @@ Dashboards, Interactive Charts, Filters and Controls, SQL Lab, Data Sources and 
 Screenshots from Superset can be found in [this .pdf](https://github.com/ahussan/Projects_DS/blob/main/superset%20screenshots.pdf) file.
 
 ---
+#### Badges:
 
 ![img_12.png](img_12.png)  ![img_14.png](img_14.png)  ![img_15.png](img_15.png)  ![img_16.png](img_16.png)  ![img_18.png](img_18.png) ![img_9.png](img_9.png)
 
@@ -106,4 +107,4 @@ Screenshots from Superset can be found in [this .pdf](https://github.com/ahussan
 
 ![img_4.png](img_4.png) ![img_6.png](img_6.png) ![img_7.png](img_7.png) ![img_8.png](img_8.png) ![img_13.png](img_13.png) ![img_11.png](img_11.png)
 
-
+Badges can be verified at  [Credly](https://www.credly.com/users/anjal-hussan)
