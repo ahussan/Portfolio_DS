@@ -7,7 +7,7 @@ ___
 **About me:**
 I am an experienced Software Development Engineer in Test (SDET) with a strong background in automated testing, quality assurance, and software development. Over the years, I have honed my skills in designing and implementing robust test frameworks, ensuring the highest quality standards for software products. My expertise spans various testing methodologies, including functional, regression and performance testing.
 
-In addition to my established career as an SDET, I am an aspiring data scientist. Driven by a passion for data and analytics, I am expanding my knowledge in data science, machine learning, and statistical analysis. I have undertaken several data science projects, focusing on predictive modeling, natural language processing, and data visualization.
+In addition to my established career as an SDET, I am an aspiring Data Science Engineer. Driven by a passion for data and analytics, I am expanding my knowledge in data science, machine learning, and statistical analysis. I have undertaken several data science projects, focusing on predictive modeling, natural language processing, and data visualization.
 
 This portfolio is a compilation of varias project references and the notebooks which I created for Exploratory Data Analysis (EDA), and creating predictive Models.
 
